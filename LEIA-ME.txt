@@ -1,0 +1,16 @@
+ML SERRALHERIA — PACOTE PARA INSTALAÇÃO COMO APLICATIVO
+
+Este pacote transforma a versão HTML em um PWA instalável e com suporte offline.
+
+IMPORTANTE:
+- Para o botão "Instalar aplicativo" funcionar, os arquivos precisam estar publicados em um endereço HTTPS.
+- Abrir index.html diretamente da pasta Downloads NÃO permite instalar como PWA.
+- Depois de publicar e abrir o endereço HTTPS no Chrome, use o menu ⋮ > Instalar aplicativo (ou Adicionar à tela inicial).
+- Na primeira abertura, conecte à internet para carregar e guardar os arquivos. Depois o app pode abrir offline.
+- Os dados cadastrados continuam no armazenamento do navegador/aplicativo. Não limpe os dados do site.
+
+Arquivos:
+- index.html: aplicativo
+- manifest.webmanifest: nome, ícone e comportamento de instalação
+- sw.js: cache offline
+- icon-192.png e icon-512.png: ícones

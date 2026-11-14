@@ -1,0 +1,24 @@
+{
+  "name": "ML Serralheria",
+  "short_name": "ML Serralheria",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f2f4f1",
+  "theme_color": "#174b32",
+  "description": "Clientes, orçamentos e controle de serviços da ML Serralheria.",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
