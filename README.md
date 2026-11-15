@@ -1,4 +1,4 @@
-#Serralheria ML 
+
 {
   "name": "ML Serralheria",
   "short_name": "ML Serralheria",
